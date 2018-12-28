@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Kanav Vats"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "PhD student at University of Waterloo"
+name                     : &name "Kanav Vats"
+description              : &description "PhD Student at University of Waterloo"
 url                      : https://kanav123.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Kanav123/Kanav123.github.io"
@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  name             : "Kanav Vats"
+  avatar           : "pic.jpg"
+  bio              : "PhD Student at University of Waterloo"
+  location         : "Waterloo, Canada"
   employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : ""
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -95,13 +95,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Kanav123"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/kanav-vats-1713b277/"
+  orcid            : ""
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
