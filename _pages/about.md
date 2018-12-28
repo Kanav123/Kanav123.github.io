@@ -10,4 +10,4 @@ redirect_from:
 
 
 
-Hi, I am a PhD student at University of Waterloo. My area of interests are machine learning, Deep learning and Computer Vision. I am currently working on the problems of Pose Estimation, Action Recognition and Tracking, with their applications in sports like Hockey and Soccer. [Here](https://kanav123.github.io/files/cv.pdf) is a link to my CV.
+Hi, I am a PhD student at University of Waterloo. My area of interests are Machine Learning, Deep Learning and Computer Vision. I am currently working on the problems of Pose Estimation, Action Recognition and Multi-Object Tracking, with their applications in sports like Hockey and Soccer. [Here](https://kanav123.github.io/files/cv.pdf) is a link to my CV.
