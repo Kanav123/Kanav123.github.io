@@ -85,9 +85,9 @@ author:
   bio              : "PhD Student at University of Waterloo"
   location         : "Waterloo, Canada"
   employer         :
-  # googlescholar    : ""
+  googlescholar    : "https://scholar.google.ca/citations?user=IF7MQ1QAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Kanav_Vats"
   uri              :
   bitbucket        :
   codepen          :

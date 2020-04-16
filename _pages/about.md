@@ -10,4 +10,6 @@ redirect_from:
 
 
 
-Hi, I am a PhD student at University of Waterloo. My area of interests are Machine Learning, Deep Learning and Computer Vision. I am currently working on the problems of Pose Estimation, Action Recognition and Multi-Object Tracking, with their applications in sports like Hockey and Soccer. [Here](https://kanav123.github.io/files/cv.pdf) is a link to my CV.
+Hi, I am a PhD Candidate at the University of Waterloo supervised by Prof. [David Clausi](https://uwaterloo.ca/systems-design-engineering/profile/dclausi) and Prof. [John Zelek](https://uwaterloo.ca/systems-design-engineering/profile/jzelek).I am currently working on computer vision based sports analytics. I am interested in the problems of event detection, tracking and pose estimation with their applications in team sports such as hockey and soccer. [Here](https://kanav123.github.io/files/cv.pdf) is a link to my CV.
+
+
